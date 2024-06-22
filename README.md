@@ -27,7 +27,7 @@ Maven installed (optional for building and managing dependencies)
 
 # Steps to Run the Application
 1. Clone the Repository:
-git clone https://github.com/yourusername/hospital-management-system.git
+git clone https://github.com/shridharbhardwaj/HospitalManagementSystem.git
 cd hospital-management-system
 
 2. Setup Oracle Database:
