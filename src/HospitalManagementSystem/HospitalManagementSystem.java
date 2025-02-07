@@ -5,8 +5,8 @@ import java.util.Scanner;
 
 public class HospitalManagementSystem {
     private static final String url = "jdbc:postgresql://localhost:5432/testdb";
-    private static final String username = "postgres";  // Change this to your PostgreSQL username
-    private static final String password = "Root@5669";  // Change this to your PostgreSQL password
+    private static final String username = "postgres";
+    private static final String password = "Root@5669";
 
     public static void main(String[] args) {
         try {
